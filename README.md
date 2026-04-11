@@ -33,7 +33,9 @@ https://github.com/angelaj18/YourProj.git
 I don't have anyone else in my group, but I do have the link :)
 
 – Do you have a “Hello World” program that compiles and runs?
+Yes, it compiles and runs.
 
 -Where is the entry point to your project?(src/main/Main.java for example)
+YourProj/src/main/Main.java
 
 
