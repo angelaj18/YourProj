@@ -41,7 +41,7 @@ YourProj/src/main/Main.java
 ## Sprint 2 Plan and Progress
 
 ### Project Idea
-Aegis Dispatch is a superhero dispatch simulation where the player acts as a command dispatcher instead of controlling heroes directly. The game focuses on balancing city safety, public trust, and hero stress.
+Alegna Dispach is a superhero dispatch simulation where the player acts as a command dispatcher instead of controlling heroes directly. The game focuses on balancing city safety, public trust, and hero stress.
 
 ### Sprint 2 Scope
 - Build a runnable Java prototype using CLI output.
