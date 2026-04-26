@@ -38,4 +38,23 @@ Yes, it compiles and runs.
 -Where is the entry point to your project?(src/main/Main.java for example)
 YourProj/src/main/Main.java
 
+## Sprint 2 Plan and Progress
+
+### Project Idea
+Aegis Dispatch is a superhero dispatch simulation where the player acts as a command dispatcher instead of controlling heroes directly. The game focuses on balancing city safety, public trust, and hero stress.
+
+### Sprint 2 Scope
+- Build a runnable Java prototype using CLI output.
+- Simulate incidents across multiple cities.
+- Dispatch available heroes to incidents.
+- Resolve outcomes and print a turn report with city and hero metrics.
+
+### Current Sprint 2 Prototype
+- Two cities with independent safety and trust scores.
+- Hero roster with power and stress levels.
+- Random incident generation per city.
+- Dispatch and resolution flow with success/failure consequences.
+
+### Entry Point
+`src/main/Main.java`
 
