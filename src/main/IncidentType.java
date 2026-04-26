@@ -1,0 +1,5 @@
+public enum IncidentType {
+    VILLAIN_ATTACK,
+    CIVILIAN_RESCUE,
+    INFRASTRUCTURE_FAILURE
+}
